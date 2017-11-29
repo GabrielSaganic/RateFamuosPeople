@@ -1,0 +1,48 @@
+.prvi
+{
+    height:250px;
+    overflow: hidden;   
+}
+
+.prvi img
+{
+    height:100%;
+    width: auto;
+    
+} 
+
+.ostali
+{
+    height:150px;
+    overflow: hidden;   
+}
+
+.ostali img
+{
+    height:100%;
+    width: auto;    
+} 
+
+.drugi img
+{
+    padding-top: 10px;
+    height:400px;
+    width: auto;  
+    display: block;
+    margin:auto;
+}
+
+.cetvrti
+{
+    text-align:center;    
+    color: #FF7F50;
+}
+
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #f2f2f2;
+   color: #000000;
+   text-align: center;
+}
